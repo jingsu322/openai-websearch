@@ -1,0 +1,23 @@
+[
+  {
+    "domain": "https://www.aarti-surfactants.com/",
+    "usage": {
+      "input_tokens": 19405,
+      "output_tokens": 845,
+      "total_tokens": 20250
+    },
+    "response": {
+      "company_name": "Aarti Surfactants Limited",
+      "company_domain": "aarti-surfactants.com",
+      "company_category": "Raw-ingredient manufacturer & supplier (surfactants and specialty chemicals)",
+      "company_industry": "Specialty chemicals for home & personal care, cosmetics, household & industrial cleaning, agro and oil applications",
+      "company_manufacturer": "In-house",
+      "outsourced_manufacturer_name": "unknown",
+      "product_type": "Ionic & non-ionic surfactants, mild surfactants, rheology modifiers, pearlizing agents, UV filters, preservatives, soap/syndet bases, conditioning proteins & quats, custom blends",
+      "if_raw_ingredients_available": true,
+      "company_annual_revenue": "≈ USD 80 million (FY 2024-25 total income INR 662.6 crore)",
+      "qualified": true,
+      "notes": "Operates two manufacturing plants in Pithampur (Madhya Pradesh) and Silvassa (Dadra & Nagar Haveli) and supplies surfactant raw materials to leading FMCG brands. Meets marketplace criteria as a raw-ingredient producer for personal-care and home-care sectors."
+    }
+  }
+]
